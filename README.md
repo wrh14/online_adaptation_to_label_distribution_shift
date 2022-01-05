@@ -6,8 +6,8 @@
 ### 1.2 Data Preparation
 The processed data are
 ```
-./data_preparation/val_cifar10_resnet18.pt
-./data_preparation/test_cifar10_resnet18.pt
+./data_preparation/val_cifar10_resnet18_cal.pt
+./data_preparation/test_cifar10_resnet18_cal.pt
 ```
 We also provide the code to generate them from scratch: first download the resnet18 pretrained on CIFAR10 from `https://drive.google.com/file/d/1gkPX4HKhwyXl820yUF6LEjXnhNzWTh99/view?usp=sharing`. Then run the following script:
 ```
