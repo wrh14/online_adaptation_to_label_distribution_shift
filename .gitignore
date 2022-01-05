@@ -1,0 +1,5 @@
+checkpoint/
+./data_preparation/data/
+./data_preparation/__pycache__/
+.ipynb_checkpoints/
+__pycache__/
