@@ -37,7 +37,7 @@ python simulation_main.py --shift_process ${shift_process} --algo {algo} --seed 
 - When we choose online gradient descent, run the above command with `--conf_type zero_one` if using finite difference to approximate the gradient or run it with `--conf_type prob`
 
 
-## 2. Experiment with Shift in Arxiv
+## 3. Experiment with Shift in Arxiv
 ```
 python arxiv_main.py --algo {algo}
 ```
