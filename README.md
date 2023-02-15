@@ -1,4 +1,4 @@
-# Online Adaption to Label Distribution Shift
+# Online Adaptation to Label Distribution Shift
 
 ## 1. Dependencies and Data Preparation
 ### 1.1 Dependencies
